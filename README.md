@@ -2,7 +2,6 @@
 - 👀 I’m interested in game programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on teaching programming to kids
-- 📫 How to reach me ...
 
 <!---
 daiz19/daiz19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
